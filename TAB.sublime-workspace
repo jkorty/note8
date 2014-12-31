@@ -1,0 +1,678 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"animatecss-flash	flash - Attention Seekers"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"chek",
+				"checkBit"
+			],
+			[
+				"check",
+				"checkBit"
+			],
+			[
+				"phys",
+				"physPage"
+			],
+			[
+				"In",
+				"InBuffer"
+			],
+			[
+				"que",
+				"queueCounter"
+			],
+			[
+				"qu",
+				"queue"
+			],
+			[
+				"core",
+				"coreOwners"
+			],
+			[
+				"Num",
+				"NumPhysPages"
+			],
+			[
+				"buffer",
+				"buffersize"
+			],
+			[
+				"num",
+				"NumPhysPages"
+			],
+			[
+				"E",
+				"ESC"
+			],
+			[
+				"time",
+				"timeSliced"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"note",
+				"noteOut"
+			],
+			[
+				"notes",
+				"notesToPrintInSlice"
+			],
+			[
+				"count",
+				"countOfNoteInSlice"
+			],
+			[
+				"split",
+				"splitIndexAt"
+			],
+			[
+				"tota",
+				"totalTime"
+			],
+			[
+				"None",
+				"None"
+			],
+			[
+				"line",
+				"lineCount"
+			],
+			[
+				"min",
+				"minTime"
+			],
+			[
+				"s",
+				"sfVector"
+			],
+			[
+				"sli",
+				"sliceCount"
+			],
+			[
+				"no",
+				"notesToTab"
+			],
+			[
+				"fb",
+				"fb_counter_percent"
+			],
+			[
+				"key",
+				"key_st_pos"
+			],
+			[
+				"k",
+				"key_st_pos"
+			],
+			[
+				"fb_counter",
+				"fb_counter_percent"
+			],
+			[
+				"reque",
+				"request_rev_check"
+			],
+			[
+				"frien",
+				"friend_exists"
+			],
+			[
+				"friend",
+				"friendship"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"current",
+				"current_ID"
+			],
+			[
+				"cu",
+				"current_ID"
+			],
+			[
+				"Friend",
+				"FriendRequest"
+			],
+			[
+				"email",
+				"Email"
+			],
+			[
+				"ctr",
+				"ctr"
+			],
+			[
+				"p",
+				"plt"
+			],
+			[
+				"max",
+				"max_duration_ind"
+			],
+			[
+				"key_",
+				"key_duration"
+			],
+			[
+				"to",
+				"toSplit"
+			],
+			[
+				"cs",
+				"csv_f"
+			],
+			[
+				"sor",
+				"sortedlist"
+			],
+			[
+				"groun",
+				"ground_truth"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"fri",
+				"friend_email"
+			],
+			[
+				"U",
+				"UserID"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"new",
+				"newThread"
+			],
+			[
+				"POLI",
+				"POLICY_PRIO_NP"
+			],
+			[
+				"P",
+				"POLICY_RR"
+			],
+			[
+				"Al",
+				"AlgorithmFactory"
+			],
+			[
+				"mfcc",
+				"mfccCoeffs"
+			],
+			[
+				"mf",
+				"mfccCoeffs"
+			],
+			[
+				"spec",
+				"spectrum"
+			],
+			[
+				"windo",
+				"windowedFrame"
+			],
+			[
+				"name",
+				"nameOfCourse"
+			],
+			[
+				"m",
+				"myGradebook"
+			],
+			[
+				"cour",
+				"courseName"
+			],
+			[
+				"imgSob",
+				"imgSob3X"
+			],
+			[
+				"ed",
+				"edge3x"
+			],
+			[
+				"out",
+				"out3edge"
+			],
+			[
+				"sob",
+				"sobBuff5y"
+			],
+			[
+				"zero",
+				"zeroFile"
+			],
+			[
+				"zer",
+				"zeroBuff"
+			],
+			[
+				"Gaussi",
+				"gaussianBuffer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1202,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"toggl",
+				"Toggle Block Comment"
+			],
+			[
+				"",
+				"Toggle Block Comment"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"bs3-n",
+				"Snippet: bs3-navbar-static-top"
+			],
+			[
+				"snippet: navbar",
+				"Snippet: bs3-navbar-fixed-top"
+			],
+			[
+				"sni",
+				"Snippet: bs3-navbar-fixed-top"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jkorty/audio-transcription"
+	],
+	"file_history":
+	[
+		"/Users/jkorty/Dropbox/Four Shore Media/Clients/EOD Vinyl Design/web/index.html",
+		"/Users/jkorty/Dropbox/Four Shore Media/Clients/EOD Vinyl Design/web/css/eod.css",
+		"/Users/jkorty/Library/Application Support/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/Users/jkorty/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/jkorty/Dropbox/Four Shore Media/Clients/EOD Vinyl Design/web/js/eod.js",
+		"/Users/jkorty/Dropbox/Four Shore Media/Clients/EOD Vinyl Design/web/css/bootstrap.css",
+		"/Users/jkorty/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jkorty/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jkorty/Dropbox/Four Shore Media/Clients/EOD Vinyl Design/web/js/scrollsmooth.js",
+		"/Users/jkorty/Dropbox/Four Shore Media/Clients/EOD Vinyl Design/web/js/bootstrap.js",
+		"/Users/jkorty/Dropbox/Four Shore Media/Clients/EOD Vinyl Design/web/js/classie.js",
+		"/Users/jkorty/Desktop/capstone/callVamp.py",
+		"/Users/jkorty/Desktop/capstone/silvetKeys.py",
+		"/Users/jkorty/Desktop/capstone/guitarNotes.py",
+		"/Users/jkorty/Desktop/capstone/makeTab.py",
+		"/Users/jkorty/Desktop/capstone/main.py",
+		"/Users/jkorty/Downloads/sonic-annotator/import_csv_chord.py",
+		"/Users/jkorty/Desktop/main.py",
+		"/Users/jkorty/Desktop/term_call.py",
+		"/Users/jkorty/Downloads/sonic-annotator/tab.xml",
+		"/Users/jkorty/Downloads/sonic-annotator/import_csv_silvet.py",
+		"/Users/jkorty/Downloads/sonic-annotator/parse_csv.py",
+		"/Users/jkorty/Library/Application Support/Übersicht/widgets/simple-clock.widget/index.coffee",
+		"/Users/jkorty/Desktop/VamPyTemplate.py",
+		"/Users/jkorty/Downloads/Chord-recognition-master/chord_viterbi.py",
+		"/Users/jkorty/Downloads/Chord-recognition-master/Chord_meanfilter.py",
+		"/Users/jkorty/Downloads/Chord-recognition-master/fitness_matrix.py",
+		"/Applications/XAMPP/xamppfiles/htdocs/fall2014-group7/dbconnect.php",
+		"/Users/jkorty/Desktop/capstone implementation/PitchDetect-master/js/pitchdetect.js",
+		"/Users/jkorty/Downloads/PitchDetect-master/js/pitchdetect.js",
+		"/Users/jkorty/Desktop/test/t",
+		"/Users/jkorty/Desktop/test/spec.py",
+		"/Users/jkorty/Desktop/pytest.py",
+		"/Users/jkorty/Desktop/spec.py",
+		"/Users/jkorty/Desktop/test1.py",
+		"/Users/jkorty/Desktop/tst.py",
+		"/Users/jkorty/Desktop/test2.py",
+		"/Users/jkorty/Desktop/test.py",
+		"/Users/jkorty/Desktop/capstone implementation/test.html",
+		"/Users/jkorty/Library/Application Support/Übersicht/widgets/wunderlist-tasks.widget/index.coffee",
+		"/Users/jkorty/Library/Application Support/Übersicht/widgets/tumblrimg.widget/tumblrimg.js",
+		"/Users/jkorty/Library/Application Support/Übersicht/widgets/Ubersicht-Spotify-widget-master/widget.json",
+		"/Users/jkorty/Library/Application Support/Übersicht/widgets/Ubersicht-Spotify-widget-master/SpotifyCurrentTrack.coffee",
+		"/Users/jkorty/Library/Application Support/Übersicht/widgets/Ubersicht-Spotify-widget-master/SpotifyCurrentTrack 2.coffee",
+		"/Users/jkorty/Library/Application Support/Übersicht/widgets/getting-started.coffee",
+		"/Users/jkorty/Downloads/silvet/src/Silvet.h",
+		"/Applications/XAMPP/xamppfiles/htdocs/fall2014-group7/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fall2014-group7/header.php",
+		"/Users/jkorty/Desktop/fall2014-group7-edit/profile.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fall2014-group7/profile.php",
+		"/Users/jkorty/Desktop/fall2014-group7-edit/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fall2014-group7/friend-list.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fall2014-group7/css/bootstrap.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/fall2014-group7/profile.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/fall2014-group7/login.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/fall2014-group7/friend-tweet.php",
+		"/Users/jkorty/Desktop/fall2014-group7-edit/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fall2014-group7/css/profile.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/fall2014-group7/css/bootswatch.min.css",
+		"/Users/jkorty/Downloads/nextDate/nextDateTest.js",
+		"/Users/jkorty/Desktop/notation/demo.html",
+		"/Users/jkorty/Desktop/notation/demo.css",
+		"/Users/jkorty/Desktop/notation/capstone.js",
+		"/Users/jkorty/Desktop/test/controllers/mongo-data.js",
+		"/Users/jkorty/Desktop/test/controllers/home-mongo.js",
+		"/Users/jkorty/Desktop/test/router.js",
+		"/Users/jkorty/Dropbox/School/CSCI 403/Projects/Old/mp2given/threads/Database.java",
+		"/Users/jkorty/Dropbox/School/CSCI 403/Projects/Project 2/mp2given/threads/BoundedBuffer.java",
+		"/Users/jkorty/Desktop/test/model/mongo-data.js",
+		"/Users/jkorty/Desktop/test/server.js",
+		"/Users/jkorty/Desktop/test/template-main.js",
+		"/Users/jkorty/Desktop/test/test-data.js",
+		"/Users/jkorty/Desktop/test/404.js",
+		"/Users/jkorty/Desktop/test/assets/style.css",
+		"/Users/jkorty/Desktop/test/home.js",
+		"/Users/jkorty/Desktop/test/app.js",
+		"/Users/jkorty/Desktop/expressTest/package.json",
+		"/Users/jkorty/expresstest/expresshogan/app.js",
+		"/Users/jkorty/Desktop/hello.js",
+		"/Users/jkorty/Desktop/noise.cpp",
+		"/Users/jkorty/Downloads/vampy-2.0-osx-108/Example VamPy plugins/PyMFCC.py",
+		"/Users/jkorty/Desktop/test_mult.js",
+		"/Users/jkorty/Desktop/test.html",
+		"/Users/jkorty/Dropbox/School/CSCI 403/Projects/Project 1/mp1given/machine/Timer.java",
+		"/Users/jkorty/Dropbox/School/CSCI 403/Projects/Project 1/mp1given/machine/Interrupt.java",
+		"/Users/jkorty/Desktop/mp2given/threads/Scheduler.java",
+		"/Users/jkorty/Dropbox/School/CSCI 403/Projects/Project 1/mp1given/threads/Scheduler.java",
+		"/Users/jkorty/Downloads/nnls-chroma-0.2.1/chorddict.cpp",
+		"/Users/jkorty/Downloads/nnls-chroma-0.2.1/Chordino.cpp",
+		"/Users/jkorty/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/2CBCDE00-D39A-4EE8-B037-09477DFA92C2/mp2given/threads/Scheduler.java",
+		"/Users/jkorty/Dropbox/School/CSCI 403/Projects/Project 1/mp1given/threads/Nachos.java",
+		"/Users/jkorty/Documents/Developer/Audio Sample Work/myprogram.cpp",
+		"/Users/jkorty/Desktop/myprogram.cpp",
+		"/Users/jkorty/Developer/FMOD Programmers API/api/lowlevel/record.cpp",
+		"/Users/jkorty/Desktop/program.js",
+		"/Users/jkorty/Desktop/standard_mfcc.cpp",
+		"/Users/jkorty/introcs/Gradebook/Gradebook.java",
+		"/Users/jkorty/introcs/Gradebook/GradebookTest.java",
+		"/Users/jkorty/introcs/portaudio_test/PlaySine.java",
+		"/Users/jkorty/introcs/Dialog1/Dialog1.java",
+		"/Users/jkorty/introcs/addition/Addition.java",
+		"/Applications/MAMP/htdocs/www/wp-config.php",
+		"/Users/jkorty/Downloads/CircularDiscographyTemplate/index.html",
+		"/Users/jkorty/Downloads/AudioPlayer/css/audioplayer.css",
+		"/Users/jkorty/Documents/Wordpress/WP Themes/40 Most Wanted Premium Themes - Themeforest/mercedesa-business-portfolio-wordpress-theme/22-themeforest-236121-mercedesa-business-portfolio-wordpress-theme/Mercedesa/Mercedesa/includes/sliders/anything-slider/css/theme-cs-portfolio.css",
+		"/Users/jkorty/Desktop/project.cpp",
+		"/Users/jkorty/Desktop/skeletonize.cpp",
+		"/Users/jkorty/Dropbox/CODE/projWork3.cpp",
+		"/Users/jkorty/Dropbox/CSCI 448 Group Project/projWork4.cpp",
+		"/Users/jkorty/Dropbox/CODE/projWork4_clean.cpp",
+		"/Users/jkorty/Desktop/LIS.cpp",
+		"/Users/jkorty/Dropbox/CSCI 448 Group Project/projectWork.cpp",
+		"/Users/jkorty/Dropbox/School/CSCI 435/Edge Detection/main.cpp",
+		"/Users/jkorty/Documents/MATLAB/jkorty/Gait/imaqmotion_jk.m",
+		"/Users/jkorty/Documents/Processing/Libraries/SimpleOpenNI/library.properties",
+		"/Applications/MatLab/bin/mexopts.sh",
+		"/Users/jkorty/.matlab/R2013a/mexopts.sh",
+		"/Users/jkorty/Documents/MATLAB/mexopts_backup.sh",
+		"/Users/jkorty/Desktop/untitled folder/main.cpp",
+		"/Users/jkorty/Desktop/main.cpp",
+		"/Applications/MatLab/bin/mex",
+		"/Applications/MatLab/extern/include/mex.h"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"container",
+			"navbar",
+			"notes",
+			"!=",
+			"lab",
+			"bs-docs-",
+			"interrupt",
+			"}",
+			"-std=gnu++11",
+			"-lstdc++",
+			"GX%",
+			"bin/bash",
+			"is a directory"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								594,
+								594
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 6,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "TAB.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
